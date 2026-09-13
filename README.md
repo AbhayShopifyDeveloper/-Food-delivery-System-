@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/749990b9-ae5a-4e9d-b8e5-1fcb8e40d856
+View your app in AI Studio: https://food-delivery-6968.netlify.app
 
 ## Run Locally
 
