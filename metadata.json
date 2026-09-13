@@ -1,0 +1,6 @@
+{
+  "name": "Food Delivery System",
+  "description": "A modern, responsive food delivery platform to explore restaurants, order meals, manage shopping cart, and track deliveries in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
